@@ -1,0 +1,401 @@
+export const Data = [{
+  "id": 1,
+  "first_name": "Al mamon",
+  "last_name": "McGrudder",
+  "email": "cmcgrudder0@technorati.com",
+  "gender": "Female",
+  "Address": "China",
+  "Cgpa": 55
+}, {
+  "id": 2,
+  "first_name": "Romy",
+  "last_name": "Chevis",
+  "email": "rchevis1@squidoo.com",
+  "gender": "Female",
+  "Address": "Norway",
+  "Cgpa": 97
+}, {
+  "id": 3,
+  "first_name": "Bernita",
+  "last_name": "Huygens",
+  "email": "bhuygens2@freewebs.com",
+  "gender": "Female",
+  "Address": "Iraq",
+  "Cgpa": 32
+}, {
+  "id": 4,
+  "first_name": "Kendre",
+  "last_name": "Gronowe",
+  "email": "kgronowe3@php.net",
+  "gender": "Bigender",
+  "Address": "China",
+  "Cgpa": 15
+}, {
+  "id": 5,
+  "first_name": "Gordon",
+  "last_name": "Haresnaip",
+  "email": "gharesnaip4@ovh.net",
+  "gender": "Male",
+  "Address": "Indonesia",
+  "Cgpa": 94
+}, {
+  "id": 6,
+  "first_name": "Valaree",
+  "last_name": "Partington",
+  "email": "vpartington5@epa.gov",
+  "gender": "Female",
+  "Address": "Indonesia",
+  "Cgpa": 3
+}, {
+  "id": 7,
+  "first_name": "Missy",
+  "last_name": "Frede",
+  "email": "mfrede6@creativecommons.org",
+  "gender": "Female",
+  "Address": "France",
+  "Cgpa": 32
+}, {
+  "id": 8,
+  "first_name": "Glad",
+  "last_name": "Gonzales",
+  "email": "ggonzales7@miitbeian.gov.cn",
+  "gender": "Female",
+  "Address": "Japan",
+  "Cgpa": 54
+}, {
+  "id": 9,
+  "first_name": "Benito",
+  "last_name": "Evens",
+  "email": "bevens8@japanpost.jp",
+  "gender": "Male",
+  "Address": "Czech Republic",
+  "Cgpa": 15
+}, {
+  "id": 10,
+  "first_name": "Melody",
+  "last_name": "Caslake",
+  "email": "mcaslake9@gizmodo.com",
+  "gender": "Female",
+  "Address": "China",
+  "Cgpa": 58
+}, {
+  "id": 11,
+  "first_name": "Fidole",
+  "last_name": "Stentiford",
+  "email": "fstentiforda@4shared.com",
+  "gender": "Male",
+  "Address": "Kosovo",
+  "Cgpa": 35
+}, {
+  "id": 12,
+  "first_name": "Sallyanne",
+  "last_name": "Dubbin",
+  "email": "sdubbinb@reference.com",
+  "gender": "Agender",
+  "Address": "China",
+  "Cgpa": 13
+}, {
+  "id": 13,
+  "first_name": "Farlie",
+  "last_name": "Dowker",
+  "email": "fdowkerc@usnews.com",
+  "gender": "Bigender",
+  "Address": "China",
+  "Cgpa": 63
+}, {
+  "id": 14,
+  "first_name": "Logan",
+  "last_name": "Meedendorpe",
+  "email": "lmeedendorped@amazon.co.uk",
+  "gender": "Genderqueer",
+  "Address": "Indonesia",
+  "Cgpa": 10
+}, {
+  "id": 15,
+  "first_name": "Leonora",
+  "last_name": "Allam",
+  "email": "lallame@who.int",
+  "gender": "Female",
+  "Address": "Indonesia",
+  "Cgpa": 66
+}, {
+  "id": 16,
+  "first_name": "Georgeta",
+  "last_name": "Metzel",
+  "email": "gmetzelf@va.gov",
+  "gender": "Female",
+  "Address": "Portugal",
+  "Cgpa": 11
+}, {
+  "id": 17,
+  "first_name": "Anatollo",
+  "last_name": "Blampy",
+  "email": "ablampyg@techcrunch.com",
+  "gender": "Male",
+  "Address": "China",
+  "Cgpa": 3
+}, {
+  "id": 18,
+  "first_name": "Gregorius",
+  "last_name": "Thickens",
+  "email": "gthickensh@histats.com",
+  "gender": "Male",
+  "Address": "Ukraine",
+  "Cgpa": 84
+}, {
+  "id": 19,
+  "first_name": "Lissa",
+  "last_name": "Bristoe",
+  "email": "lbristoei@gnu.org",
+  "gender": "Female",
+  "Address": "Serbia",
+  "Cgpa": 29
+}, {
+  "id": 20,
+  "first_name": "Hurleigh",
+  "last_name": "Colston",
+  "email": "hcolstonj@webeden.co.uk",
+  "gender": "Male",
+  "Address": "Brazil",
+  "Cgpa": 73
+}, {
+  "id": 21,
+  "first_name": "Deane",
+  "last_name": "Vina",
+  "email": "dvinak@pinterest.com",
+  "gender": "Female",
+  "Address": "China",
+  "Cgpa": 56
+}, {
+  "id": 22,
+  "first_name": "Tedra",
+  "last_name": "Slaten",
+  "email": "tslatenl@oakley.com",
+  "gender": "Genderfluid",
+  "Address": "China",
+  "Cgpa": 10
+}, {
+  "id": 23,
+  "first_name": "Edgard",
+  "last_name": "Murt",
+  "email": "emurtm@vkontakte.ru",
+  "gender": "Male",
+  "Address": "China",
+  "Cgpa": 58
+}, {
+  "id": 24,
+  "first_name": "Carol",
+  "last_name": "Raith",
+  "email": "craithn@earthlink.net",
+  "gender": "Female",
+  "Address": "Indonesia",
+  "Cgpa": 4
+}, {
+  "id": 25,
+  "first_name": "Drusi",
+  "last_name": "Alwen",
+  "email": "dalweno@google.ca",
+  "gender": "Female",
+  "Address": "Indonesia",
+  "Cgpa": 69
+}, {
+  "id": 26,
+  "first_name": "Maritsa",
+  "last_name": "Sheilds",
+  "email": "msheildsp@xrea.com",
+  "gender": "Female",
+  "Address": "China",
+  "Cgpa": 79
+}, {
+  "id": 27,
+  "first_name": "Burr",
+  "last_name": "Bonhan",
+  "email": "bbonhanq@abc.net.au",
+  "gender": "Male",
+  "Address": "Indonesia",
+  "Cgpa": 29
+}, {
+  "id": 28,
+  "first_name": "Hedi",
+  "last_name": "Douglas",
+  "email": "hdouglasr@google.cn",
+  "gender": "Female",
+  "Address": "Portugal",
+  "Cgpa": 21
+}, {
+  "id": 29,
+  "first_name": "Korey",
+  "last_name": "Choffin",
+  "email": "kchoffins@nsw.gov.au",
+  "gender": "Male",
+  "Address": "Syria",
+  "Cgpa": 53
+}, {
+  "id": 30,
+  "first_name": "Andre",
+  "last_name": "Belfrage",
+  "email": "abelfraget@apple.com",
+  "gender": "Male",
+  "Address": "France",
+  "Cgpa": 99
+}, {
+  "id": 31,
+  "first_name": "Bryana",
+  "last_name": "Hanhardt",
+  "email": "bhanhardtu@123-reg.co.uk",
+  "gender": "Female",
+  "Address": "China",
+  "Cgpa": 18
+}, {
+  "id": 32,
+  "first_name": "Rachele",
+  "last_name": "Avrahamy",
+  "email": "ravrahamyv@blogtalkradio.com",
+  "gender": "Female",
+  "Address": "China",
+  "Cgpa": 61
+}, {
+  "id": 33,
+  "first_name": "Kendrick",
+  "last_name": "Auletta",
+  "email": "kaulettaw@mayoclinic.com",
+  "gender": "Male",
+  "Address": "Sri Lanka",
+  "Cgpa": 56
+}, {
+  "id": 34,
+  "first_name": "Lisabeth",
+  "last_name": "Marjot",
+  "email": "lmarjotx@wisc.edu",
+  "gender": "Female",
+  "Address": "Brazil",
+  "Cgpa": 42
+}, {
+  "id": 35,
+  "first_name": "Jarvis",
+  "last_name": "Olpin",
+  "email": "jolpiny@netscape.com",
+  "gender": "Male",
+  "Address": "Indonesia",
+  "Cgpa": 79
+}, {
+  "id": 36,
+  "first_name": "Brockie",
+  "last_name": "Northage",
+  "email": "bnorthagez@hao123.com",
+  "gender": "Bigender",
+  "Address": "Russia",
+  "Cgpa": 53
+}, {
+  "id": 37,
+  "first_name": "Ottilie",
+  "last_name": "Chaudret",
+  "email": "ochaudret10@reverbnation.com",
+  "gender": "Female",
+  "Address": "Brazil",
+  "Cgpa": 49
+}, {
+  "id": 38,
+  "first_name": "Vincenty",
+  "last_name": "Goning",
+  "email": "vgoning11@dropbox.com",
+  "gender": "Male",
+  "Address": "Vietnam",
+  "Cgpa": 97
+}, {
+  "id": 39,
+  "first_name": "Hanan",
+  "last_name": "Rasp",
+  "email": "hrasp12@about.com",
+  "gender": "Male",
+  "Address": "Chile",
+  "Cgpa": 18
+}, {
+  "id": 40,
+  "first_name": "Barty",
+  "last_name": "Oloshin",
+  "email": "boloshin13@live.com",
+  "gender": "Male",
+  "Address": "United States",
+  "Cgpa": 23
+}, {
+  "id": 41,
+  "first_name": "Em",
+  "last_name": "Hulmes",
+  "email": "ehulmes14@huffingtonpost.com",
+  "gender": "Female",
+  "Address": "Laos",
+  "Cgpa": 44
+}, {
+  "id": 42,
+  "first_name": "Chrissie",
+  "last_name": "Maguire",
+  "email": "cmaguire15@nhs.uk",
+  "gender": "Non-binary",
+  "Address": "Philippines",
+  "Cgpa": 53
+}, {
+  "id": 43,
+  "first_name": "Broderick",
+  "last_name": "Farragher",
+  "email": "bfarragher16@twitter.com",
+  "gender": "Male",
+  "Address": "China",
+  "Cgpa": 88
+}, {
+  "id": 44,
+  "first_name": "Kirstyn",
+  "last_name": "Bodycombe",
+  "email": "kbodycombe17@hatena.ne.jp",
+  "gender": "Non-binary",
+  "Address": "Brazil",
+  "Cgpa": 53
+}, {
+  "id": 45,
+  "first_name": "Ricky",
+  "last_name": "Lack",
+  "email": "rlack18@sohu.com",
+  "gender": "Male",
+  "Address": "Kenya",
+  "Cgpa": 22
+}, {
+  "id": 46,
+  "first_name": "Fern",
+  "last_name": "Dreigher",
+  "email": "fdreigher19@pen.io",
+  "gender": "Female",
+  "Address": "Indonesia",
+  "Cgpa": 11
+}, {
+  "id": 47,
+  "first_name": "Auria",
+  "last_name": "McKinley",
+  "email": "amckinley1a@amazon.co.uk",
+  "gender": "Female",
+  "Address": "China",
+  "Cgpa": 68
+}, {
+  "id": 48,
+  "first_name": "Callean",
+  "last_name": "Livick",
+  "email": "clivick1b@google.com",
+  "gender": "Non-binary",
+  "Address": "Bahamas",
+  "Cgpa": 19
+}, {
+  "id": 49,
+  "first_name": "Lyon",
+  "last_name": "Djorvic",
+  "email": "ldjorvic1c@typepad.com",
+  "gender": "Male",
+  "Address": "Iran",
+  "Cgpa": 24
+}, {
+  "id": 50,
+  "first_name": "Wynn",
+  "last_name": "Bosenworth",
+  "email": "wbosenworth1d@ucsd.edu",
+  "gender": "Male",
+  "Address": "Poland",
+  "Cgpa": 79
+}]
